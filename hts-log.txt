@@ -1,0 +1,64 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 24 Jan 2022 16:47:40 at http://localhost/wordpress/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://localhost/wordpress/ -O1 "C:\My Web Sites\prayag" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:51:40	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from localhost/wordpress/)
+16:51:40	Warning: 	Moved Permanently for s.w.org/
+16:51:40	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+16:51:41	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from localhost/wordpress/)
+16:52:06	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://urocareapolohospital.com/wp-content/uploads/2019/02/cover.jpg (from localhost/wordpress/)
+16:52:07	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://urocareapolohospital.com/wp-content/uploads/2019/02/bg-22.jpg (from localhost/wordpress/)
+16:52:07	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://urocareapolohospital.com/wp-content/uploads/2019/02/bg-2.jpg (from localhost/wordpress/)
+16:52:08	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://urocareapolohospital.com/wp-content/uploads/2019/01/bg-test.png (from localhost/wordpress/)
+16:56:54	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://urocareapolohospital.com/wp-content/uploads/2019/02/cover.jpg (from localhost/wordpress/)
+16:56:54	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://urocareapolohospital.com/wp-content/uploads/2019/02/bg-22.jpg (from localhost/wordpress/)
+16:56:54	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://urocareapolohospital.com/wp-content/uploads/2019/02/bg-2.jpg (from localhost/wordpress/)
+16:56:54	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://urocareapolohospital.com/wp-content/uploads/2019/01/bg-test.png (from localhost/wordpress/)
+16:56:57	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/medilink/assets/css/img/preloader.gif (from localhost/wordpress/wp-content/themes/medilink/assets/css/style.css?ver=1.5.1)
+16:56:57	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/medilink/assets/css/img/department/department-bg2.png (from localhost/wordpress/wp-content/themes/medilink/assets/css/elementor.css?ver=1.5.1)
+16:56:57	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://urocareapolohospital.com/wp-content/uploads/2019/02/new-banner.jpg (from localhost/wordpress/about/)
+16:56:57	Warning: 	Moved Permanently for localhost/wordpress/?p=8
+16:56:57	Warning: 	File has moved from localhost/wordpress/?p=8 to http://localhost/wordpress/about/
+16:56:57	Warning: 	Moved Permanently for localhost/wordpress/?p=631
+16:56:57	Warning: 	File has moved from localhost/wordpress/?p=631 to http://localhost/wordpress/doctors-3/
+16:56:57	Warning: 	Moved Permanently for localhost/wordpress/?p=634
+16:56:57	Warning: 	File has moved from localhost/wordpress/?p=634 to http://localhost/wordpress/departments-1/
+16:56:58	Warning: 	Moved Permanently for localhost/wordpress/?p=656
+16:56:58	Warning: 	File has moved from localhost/wordpress/?p=656 to http://localhost/wordpress/contact/
+16:56:58	Warning: 	Moved Permanently for localhost/wordpress/?p=3065
+16:56:58	Warning: 	File has moved from localhost/wordpress/?p=3065 to http://localhost/wordpress/departments/urology/
+16:56:58	Warning: 	Moved Permanently for localhost/wordpress/?p=3067
+16:56:58	Warning: 	File has moved from localhost/wordpress/?p=3067 to http://localhost/wordpress/departments/internal-medicine/
+16:57:06	Warning: 	Moved Permanently for localhost/wordpress/?p=3384
+16:57:06	Warning: 	File has moved from localhost/wordpress/?p=3384 to http://localhost/wordpress/departments/general-surgery/
+16:57:06	Warning: 	Moved Permanently for localhost/wordpress/?p=3073
+16:57:06	Warning: 	File has moved from localhost/wordpress/?p=3073 to http://localhost/wordpress/departments/gynaecology/
+16:57:06	Warning: 	Moved Permanently for localhost/wordpress/?p=3077
+16:57:06	Warning: 	File has moved from localhost/wordpress/?p=3077 to http://localhost/wordpress/departments/cardiology/
+16:57:06	Warning: 	Moved Permanently for localhost/wordpress/?p=3079
+16:57:06	Warning: 	File has moved from localhost/wordpress/?p=3079 to http://localhost/wordpress/departments/nephrology/
+16:57:06	Warning: 	Moved Permanently for localhost/wordpress/?p=3075
+16:57:06	Warning: 	File has moved from localhost/wordpress/?p=3075 to http://localhost/wordpress/departments/pediatric/
+16:57:06	Warning: 	Moved Permanently for localhost/wordpress/?p=3071
+16:57:06	Warning: 	File has moved from localhost/wordpress/?p=3071 to http://localhost/wordpress/departments/ent/
+16:57:06	Warning: 	Moved Permanently for localhost/wordpress/?p=3069
+16:57:06	Warning: 	File has moved from localhost/wordpress/?p=3069 to http://localhost/wordpress/departments/orthopedic/
+16:57:06	Warning: 	Moved Permanently for localhost/wordpress/?p=3504
+16:57:06	Warning: 	File has moved from localhost/wordpress/?p=3504 to http://localhost/wordpress/departments/oncology/
+16:57:06	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/medilink/assets/css/owl.video.play.png (from localhost/wordpress/wp-content/themes/medilink/assets/css/owl.carousel.min.css?ver=1.5.1)
+16:57:16	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://urocareapolohospital.com/wp-content/uploads/2019/02/cover.jpg (from localhost/wordpress/)
+16:57:16	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://urocareapolohospital.com/wp-content/uploads/2019/02/bg-22.jpg (from localhost/wordpress/)
+16:57:16	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://urocareapolohospital.com/wp-content/uploads/2019/02/bg-2.jpg (from localhost/wordpress/)
+16:57:16	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://urocareapolohospital.com/wp-content/uploads/2019/01/bg-test.png (from localhost/wordpress/)
+16:57:16	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://urocareapolohospital.com/wp-content/uploads/2019/02/new-banner.jpg (from localhost/wordpress/about/)
+16:57:16	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link junk.metafilter.com/xfn.gif (from https://gmpg.org/xfn/more)
+16:57:16	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://urocareapolohospital.com/wp-content/uploads/2019/02/new-banner.jpg (from localhost/wordpress/about/)
+16:57:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link junk.metafilter.com/xfn.gif (from https://gmpg.org/xfn/more)
+16:57:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link junk.metafilter.com/xfn.gif (from https://gmpg.org/xfn/more)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 36 seconds : 404 links scanned, 360 files written (18882228 bytes overall) [18888516 bytes received at 32792 bytes/sec], 973868 bytes transferred using HTTP compression in 52 files, ratio 55%, 2.1 requests per connection
+(11 errors, 42 warnings, 0 messages)
